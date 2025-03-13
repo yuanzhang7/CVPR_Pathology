@@ -1,2 +1,2 @@
-# CVPR_Pathology
+# 2025 CVPR Pathology Paper
 CVPR_Pathology
